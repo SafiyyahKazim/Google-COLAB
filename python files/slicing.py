@@ -1,0 +1,11 @@
+family = ['mom','dad','grandma','grandpa','auntie1','auntie2','auntie3','uncle1','uncle2','sister','brother','cousin1','cousin2','cousin3','nephew1','nephew2','niece1','niece2','great-grandma','great-grandpa']
+print(family[2:4])
+print(family[0:3])
+print(family[6:10])
+print(family[2:])
+print(family[-2])
+print(family[-1])
+print(family[6:9])
+print(family[2:8])
+print(family[-3])
+print(family[:3])
